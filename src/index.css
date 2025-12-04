@@ -359,7 +359,7 @@ body {
 .video-thumbnail {
   position: relative;
   background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(59, 130, 246, 0.1) 100%);
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 9 / 16;
   display: flex;
   align-items: center;
   justify-content: center;
